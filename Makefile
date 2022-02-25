@@ -1,5 +1,5 @@
 ABC.exe:main.o big3.o fact.o rev.o big2.o fib.o sort.o sum2.o pal.o
-	gcc-o ABC.exe main.o big3.o fact.o rev.o big2.o fib.o sort.o sum2.o pal.o
+	gcc -o ABC.exe main.o big3.o fact.o rev.o big2.o fib.o sort.o sum2.o pal.o
 main.o:main.c
 	gcc -c main.c
 big3.o:big3.c
