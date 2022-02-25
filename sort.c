@@ -1,6 +1,5 @@
  #include <stdio.h>
 sortingnumber()
-    void main()
     {
  
         int i, j, a, n, number[30];
