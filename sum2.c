@@ -1,6 +1,6 @@
 #include <stdio.h>
 sumoftwo()
-int main() {    
+{    
 
     int number1, number2, sum;
     
