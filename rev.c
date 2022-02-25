@@ -1,6 +1,6 @@
 #include <stdio.h>  
 #include <string.h>  
-void reverse()  
+reverse()  
 {  
     char str[40]; // declare the size of character string  
     printf (" \n Enter a string to be reversed: ");  
